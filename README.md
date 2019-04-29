@@ -1,5 +1,6 @@
 # Sigmoid-Training-Contour-animation-visualization
 a detailed 2d and 3d animation visualization of sigmoid training
+[GUIDE BLOG](https://medium.com/@jaswinder9051998/codeblog-sigmoid-perceptron-e52c878e0e03)
 ## 2D VISULIZATION
 ### ANIMATION
 ![2d](https://media.giphy.com/media/gdSKt3rp5sKC7DS8WC/giphy.gif)
